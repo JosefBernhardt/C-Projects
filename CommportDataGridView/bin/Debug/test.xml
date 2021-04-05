@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Versuch>
+    <Nummer>1</Nummer>
+    <Kommando>G01 X0 Y0 Z0</Kommando>
+    <Zeit>500</Zeit>
+  </Versuch>
+  <Versuch>
+    <Nummer>2</Nummer>
+    <Kommando>G01 Z-10</Kommando>
+    <Zeit>200</Zeit>
+  </Versuch>
+  <Versuch>
+    <Nummer>3</Nummer>
+    <Kommando>G02 X0 Y10 I0 J5</Kommando>
+    <Zeit>500</Zeit>
+  </Versuch>
+  <Versuch>
+    <Nummer>4</Nummer>
+    <Kommando>G01 X10 Y0</Kommando>
+    <Zeit>690</Zeit>
+  </Versuch>
+  <Versuch>
+    <Nummer>5</Nummer>
+    <Kommando>G01 X0 Y0</Kommando>
+    <Zeit>200</Zeit>
+  </Versuch>
+</DocumentElement>

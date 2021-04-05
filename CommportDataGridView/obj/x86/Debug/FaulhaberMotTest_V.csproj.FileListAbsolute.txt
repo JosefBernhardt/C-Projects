@@ -1,0 +1,11 @@
+c:\users\localadmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\FaulhaberMotTest_V.Properties.Resources.resources
+c:\users\localadmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\FaulhaberMotTest_V.csproj.GenerateResource.Cache
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\FaulhaberMotTest_V.csprojResolveAssemblyReference.cache
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\FaulhaberMotTest_V.Form1.resources
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\FaulhaberMotTest_V.Form2.resources
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\FaulhaberMotTest_V.Form3.resources
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\FaulhaberMotTest_V.AboutBox1.resources
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\bin\Debug\Faulhaber Motor Tester.exe
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\bin\Debug\Faulhaber Motor Tester.pdb
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\Faulhaber Motor Tester.exe
+C:\Users\LocalAdmin\documents\visual studio 2010\Projects\FaulhaberMotTest_V\FaulhaberMotTest_V\obj\x86\Debug\Faulhaber Motor Tester.pdb
